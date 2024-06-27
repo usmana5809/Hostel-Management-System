@@ -64,6 +64,7 @@ The Hostel Management System is a comprehensive software application designed to
 Upon running the program, users can select the hostel they wish to manage (e.g., Boy Hostel 1, Boy Hostel 2, Boy Hostel 3, Girl Hostel). Within each hostel, users can navigate through various management systems to perform CRUD operations (Create, Read, Update, Delete).
 
 ### Main Menu
+```bash
 ========================================================================================
 HOSTEL MANAGEMENT SYSTEM
     === >>  Press 1 for Boy Hostel1
@@ -71,8 +72,12 @@ HOSTEL MANAGEMENT SYSTEM
     === >>  Press 3 for Boy Hostel3
     === >>  Press 4 for Girl Hostel
     === >>  Press 5 to Exit
+```
 
-### Submenu Example (Student Management System)
+### Submenu Example
+```bash
+========================================================================================
+                    (Student Management System)
 ========================================================================================
 STUDENT MANAGEMENT SYSTEM
     --- >> Press 1 to Add Student
@@ -87,6 +92,7 @@ STUDENT MANAGEMENT SYSTEM
     --- >> Press 4 to Delete Student
     --- >> Press 5 to Manage Fines
     --- >> Press 9 to Return to Previous Menu
+```
 
 ## Installation
 1. Clone the repository:
